@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "command line application ",
+  "main": "Customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ldesir05/bamazon.git"
+  },
+  "author": "Limbert Desir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ldesir05/bamazon/issues"
+  },
+  "homepage": "https://github.com/Ldesir05/bamazon#readme"
+}
